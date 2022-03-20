@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exploit output files
+apache_exploit_output_nocgi.txt
+apache_exploit_output_cgi.txt
